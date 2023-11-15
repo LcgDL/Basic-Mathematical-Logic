@@ -1,2 +1,5 @@
 # Basic-Mathematical-Logic
-Basic Mathematical Logic using Python
+Basic Mathematical Logic using Python.
+
+- Propositional Logic
+
