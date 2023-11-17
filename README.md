@@ -5,3 +5,5 @@ Basic Mathematical Logic using Python.
 
 - First-order logic
 
+- Gödel's completeness theorem
+
