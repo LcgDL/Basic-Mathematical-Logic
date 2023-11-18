@@ -7,3 +7,5 @@ Basic Mathematical Logic using Python.
 
 - Gödel's completeness theorem
 
+- Gödel's incompleteness theorems
+
