@@ -3,6 +3,7 @@ Basic Mathematical Logic using Python.
 Contents:
 
 - Propositional Logic
+    - Syntax   
 
 - First-order logic
 
