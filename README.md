@@ -7,6 +7,7 @@ Contents:
     - Semantics
 
 - First-order logic
+    - Syntax 
 
 - Gödel's completeness theorem
 
